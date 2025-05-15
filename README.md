@@ -3,9 +3,10 @@
 This repository contains my resume, sample cover letters, certifications, and key documents relevant to **Data Science, Machine Learning, and Artificial Intelligence** roles.
 
 ## 📌 Contents
-- 📄 Resume → [01_SIDDARTHA_BANDI_Resume.pdf](./01_SIDDARTHA_BANDI_Resume.pdf)
-- ✉️ Cover Letter → [02_Siddartha_Bandi_CoverLetter.pdf](./02_Siddartha_Bandi_CoverLetter.pdf)
-- 🏅 Certifications → [Certifications/](./03_Certifications/)
+- 📄 Resume (PDF)
+- ✉️ Cover letters (PDF)
+- 🏅 Certifications
+- 💡 Portfolio link
 
 ## 🐶 Areas of Interest
 - Machine Learning & AI Applications
