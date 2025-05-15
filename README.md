@@ -8,7 +8,7 @@ This repository contains my resume, sample cover letters, certifications, and ke
 - 🏅 Certifications
 - 💡 Portfolio link
 
-## 🤖 Areas of Interest
+## 🐶 Areas of Interest
 - Machine Learning & AI Applications
 - Predictive Modelling & Forecasting
 - NLP & Data-Driven Decision Making
