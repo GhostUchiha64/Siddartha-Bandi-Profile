@@ -1,2 +1,2 @@
-# Siddartha-Bandi-Profile
-My professional documents including resume, academic transcripts, and certifications for prospective employers.
+# Siddartha Bandi Profile
+My professional documents include a resume, academic transcripts, and certifications for prospective employers.
