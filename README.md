@@ -14,6 +14,7 @@ This repository contains my resume, sample cover letters, certifications, and ke
 - NLP & Data-Driven Decision Making
 - Data Visualization & Cloud Analytics
 
-## 🔗 Connect with me:
+## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/bandi-siddartha/)
-- 📧 Email: siddarthabandi5@gmail.com
+- Email: siddarthabandi5@gmail.com
+- Portfolio: ob.zapfolio.in/siddarthabandi5
