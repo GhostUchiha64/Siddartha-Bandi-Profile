@@ -15,5 +15,5 @@ This repository contains my resume, sample cover letters, certifications, and ke
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/bandi-siddartha/)
-- Email: siddarthabandi5@gmail.com
 - [Portfolio](https://ob.zapfolio.in/siddarthabandi5)
+- Email: siddarthabandi5@gmail.com
