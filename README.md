@@ -6,7 +6,6 @@ This repository contains my resume, sample cover letters, certifications, and ke
 - 📄 Resume (PDF)
 - ✉️ Cover letters (PDF)
 - 🏅 Certifications
-- 💡 Portfolio link
 
 ## 🐶 Areas of Interest
 - Machine Learning & AI Applications
@@ -17,4 +16,4 @@ This repository contains my resume, sample cover letters, certifications, and ke
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/bandi-siddartha/)
 - Email: siddarthabandi5@gmail.com
-- Portfolio: ob.zapfolio.in/siddarthabandi5
+- [Portfolio](https://ob.zapfolio.in/siddarthabandi5)
